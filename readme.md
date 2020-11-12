@@ -1,5 +1,5 @@
 # Task for my Java practice lessons
 
-* Пункт 1
-* Пункт 2
-* Пункт 3
+* [Geometry classes (extends practice)](https://github.com/VladislavHacker/JavaLearning/tree/master/Geometry)
+* [Simple recursion tasks](https://github.com/VladislavHacker/JavaLearning/tree/master/Recursion)
+* [Queues classes implementation](https://github.com/VladislavHacker/JavaLearning/tree/master/Queues2)
