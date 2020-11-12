@@ -11,3 +11,4 @@
 * [Docs practice(Wait lists implementation](https://github.com/VladislavHacker/JavaLearning/tree/master/WaitLists)
 * [Comparable Interface example and sorting](https://github.com/VladislavHacker/JavaLearning/tree/master/SortWithComparableInterface)
 * [Arithmetical expressions calculator](https://github.com/VladislavHacker/JavaLearning/tree/master/CalcArithmeticExpressions)
+* [String and StringBuilder/Buffer](https://github.com/VladislavHacker/JavaLearning/tree/master/String%26StringBuilder)
