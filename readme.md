@@ -1,4 +1,4 @@
-# Task for my Java practice lessons
+# Tasks for my Java practice lessons
 
 * [Geometry classes (extends practice)](https://github.com/VladislavHacker/JavaLearning/tree/master/Geometry)
 * [Interfaces practice](https://github.com/VladislavHacker/JavaLearning/tree/master/InterfacePractice)
